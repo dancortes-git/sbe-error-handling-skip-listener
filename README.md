@@ -1,6 +1,8 @@
 # Spring Batch Examples - Error Handling Skip Listener
 
-Project with examples using Spring Batch. In this project there are examples with error handling and skip Listener configuration.
+Project with examples using Spring Batch.
+
+In this project there are examples with error handling and skip Listener configuration.
 
 ## Requirements
 You must set a database used for tests in our example we are using Postgresql.
